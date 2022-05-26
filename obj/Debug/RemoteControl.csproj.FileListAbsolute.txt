@@ -1,0 +1,40 @@
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.csproj.AssemblyReference.cache
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.exe.config
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.exe
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.pdb
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.MainForm.resources
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.Properties.Resources.resources
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.csproj.GenerateResource.cache
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.exe
+C:\Users\lab.LABORATOARE\Downloads\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.pdb
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.exe.config
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.exe
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.pdb
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.exe
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.pdb
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.csprojResolveAssemblyReference.cache
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.MainForm.resources
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.Properties.Resources.resources
+C:\Users\lab.LABORATOARE\Downloads\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.csproj.GenerateResource.Cache
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.exe.config
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.exe
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\bin\Debug\RemoteControl.pdb
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.csproj.AssemblyReference.cache
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.MainForm.resources
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.Properties.Resources.resources
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.csproj.GenerateResource.cache
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.exe
+C:\Users\Stefan\Downloads\proiectIP (2)\proiectIP\LaboratorIP10simplu\Interfata\obj\Debug\RemoteControl.pdb
+C:\Users\paunm\Desktop\ip\Interfata\bin\Debug\RemoteControl.exe.config
+C:\Users\paunm\Desktop\ip\Interfata\bin\Debug\RemoteControl.exe
+C:\Users\paunm\Desktop\ip\Interfata\bin\Debug\RemoteControl.pdb
+C:\Users\paunm\Desktop\ip\Interfata\obj\Debug\RemoteControl.csproj.AssemblyReference.cache
+C:\Users\paunm\Desktop\ip\Interfata\obj\Debug\RemoteControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\paunm\Desktop\ip\Interfata\obj\Debug\RemoteControl.MainForm.resources
+C:\Users\paunm\Desktop\ip\Interfata\obj\Debug\RemoteControl.Properties.Resources.resources
+C:\Users\paunm\Desktop\ip\Interfata\obj\Debug\RemoteControl.csproj.GenerateResource.cache
+C:\Users\paunm\Desktop\ip\Interfata\obj\Debug\RemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\paunm\Desktop\ip\Interfata\obj\Debug\RemoteControl.exe
+C:\Users\paunm\Desktop\ip\Interfata\obj\Debug\RemoteControl.pdb
